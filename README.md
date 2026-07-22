@@ -2,7 +2,7 @@
 
 I'm an Integration Engineer from South Africa who enjoys solving complicated problems by connecting systems together.
 
-During the day I build enterprise integrations between ERP, CRM, HR and finance platforms. After hours you'll usually find me restoring old tools, designing mechanical projects in Fusion 360, experimenting with electronics, or building something completely unnecessary just because it sounds fun.
+During the day I build enterprise integrations between ERP, CRM, HR and finance platforms. After hours you'll usually find me restoring old tools, designing mechanical projects in Fusion 360, experimenting with electronics, solving problems with 3D printing, or building something completely unnecessary just because it sounds fun.
 
 ---
 
@@ -13,8 +13,6 @@ During the day I build enterprise integrations between ERP, CRM, HR and finance 
 - REST APIs
 - SOAP
 - GraphQL
-- XML / JSON
-- XSLT
 
 ### Enterprise Systems
 - Salesforce
@@ -63,19 +61,26 @@ Future projects include:
 
 I spend a surprising amount of time restoring vintage hand tools.
 
-Current projects include:
+Completed projects include:
 
 - Record No. 4 restoration
 - Record No. 6 restoration
 - Stanley No. 51 spokeshave
+- Record 52 1/2 Woodworkers Bench vise
+
+In progress Projects include:
+
+- Redoing Workshop organisation - French cleats
 - Wood Major table saw rebuild
-- Workshop improvements
+- Workshop dust collection system
 
 ---
 
-### 🎮 Sim Racing
+### 🎮 3D design / electronic projects
 
-Designing a fully custom H-pattern shifter in Fusion 360 for 3D printing for a friend.
+- Designed a fully custom H-pattern shifter in Fusion 360 for 3D printing for a friend; The goal was to make something that would feel mechnanical, but still use 3D printing. The mechanical feel was achieved by pulling and pushing bearings held down by spring tension over a patterned indexer to add some resistance. 
+- Auto Vacuum switch; I wanted to make something that would automatically turn on my workshop vacuum when a powertool is turned on. I designed and 3D printed an enclousure to house a microcontroller, AC to DC power supply, current sensor and a relay. It powers on automatically when current is detected and switches of 6 seconds later once no current is detected.
+- Life sized Thunderhammer from the Warhammer universe; This was an impluse project. After playing Space Marine 2, I thought it would be a good idea to 3D print a weapon from the game to serve as a display piece in my workshop. More than 100 hours of 3D printing, 5.5KG's worth of filament, 2 weeks of sanding and another week of experimenting with paint. 
 
 ---
 
