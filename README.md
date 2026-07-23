@@ -64,9 +64,11 @@ I spend a surprising amount of time restoring vintage hand tools.
 Completed projects include:
 
 - Record No. 4 restoration
+- Record No. 5 restoration
 - Record No. 6 restoration
 - Stanley No. 51 spokeshave
 - Record 52 1/2 Woodworkers Bench vise
+- Electric standing desk with a hardwood top made from South African Blackwood
 
 In progress Projects include:
 
