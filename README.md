@@ -28,11 +28,10 @@ During the day I build enterprise integrations between ERP, CRM, HR and finance 
 - Payspace
 
 ### Development
-- C#
+- Python
 - SQL Server
 - PostgreSql
-- JavaScript
-- TypeScript
+- C#
 - Node.js
 - React
 - HTML / CSS
@@ -94,6 +93,7 @@ Building modern websites focused on speed, accessibility and SEO using Eleventy.
 
 ## 🌱 Currently Learning
 
+- Self built Data Engineering bootcamp
 - Embedded systems
 - ESP32 development
 - LoRa networking
