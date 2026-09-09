@@ -50,7 +50,7 @@ Future projects include:
 
 - handheld messaging devices
 - sensor networks
-- Raspberry Pi gateways
+- Home Assistant gateways
 - GPS tracking
 - custom IoT devices
 
@@ -58,7 +58,7 @@ Future projects include:
 
 ### 🪚 Workshop
 
-I spend a surprising amount of time restoring vintage hand tools.
+I spend a surprising amount of time just making thing and restoring vintage hand tools.
 
 Completed projects include:
 
@@ -93,13 +93,11 @@ Building modern websites focused on speed, accessibility and SEO using Eleventy.
 
 ## 🌱 Currently Learning
 
-- Self built Data Engineering bootcamp
+- Self built Data Engineering bootcamp (Python, Infrastructure as Code)
+- Home Assistant server setup for home automation
 - Embedded systems
-- ESP32 development
 - LoRa networking
 - Mechanical design
-- Better software architecture
-- GitHub Actions
 
 ---
 
@@ -111,7 +109,3 @@ If I can automate it, build it, restore it or reverse engineer it...
 I'm interested.
 
 ---
-
-## 📫 Connect
-
-Feel free to explore my repositories or reach out if you're working on integrations, embedded systems or interesting maker projects.
