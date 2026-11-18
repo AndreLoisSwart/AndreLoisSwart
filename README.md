@@ -43,6 +43,8 @@ A personal project, item and notes manager that runs as a self-hosted Home Assis
 
 It keeps track of hobby and household projects (active ones and "someday" ideas), the tools and parts they need, where those things are kept, and the notes that go with them. Claude can also read and update it through a built-in MCP server.
 
+Developed with Python (FastAPI, SQLAlchemy, SQLite) and React
+
 ### Ohm Sweet Ohm
 A self-hosted electronics workbench for hobby builds made from off-the-shelf modules (ESP32 and Arduino boards, sensor breakouts, displays, relays). You keep a library of parts with their real pinouts, wire them together on a canvas, and the server checks the circuit for mistakes before you power anything up. From the same design it lays the circuit out on stripboard and generates firmware scaffolding.
 
@@ -50,25 +52,11 @@ Claude is built in as a collaborator over MCP: it can read and review designs, b
 
 It runs as a Home Assistant add-on and sits alongside its sibling app, Shelf-help, which tracks component stock and projects.
 
+Developed with Python (FastAPI, SQLAlchemy, SQLite) and React
+
 ---
 
 ## 🔨 Current Projects
-
-### 📡 LoRa Your Expectations
-
-Building a long-range communication platform using LoRa.
-
-The goal is to create an application-independent networking layer capable of transporting packets between custom devices without relying on the internet.
-
-Future projects include:
-
-- handheld messaging devices
-- sensor networks
-- Home Assistant gateways
-- GPS tracking
-- custom IoT devices
-
----
 
 ### 🪚 Workshop
 
@@ -83,6 +71,7 @@ Completed projects include:
 - Record 52 1/2 Woodworkers Bench vise
 - Electric standing desk with a hardwood top made from South African Blackwood
 - Redoing Workshop organisation - French cleats
+- 5 X Disston and Sons handsaws of which some are almost 100 years old
 
 In progress Projects include:
 
